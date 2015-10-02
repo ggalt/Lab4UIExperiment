@@ -25,3 +25,21 @@ proguard/
 
 # Log Files
 *.log
+
+# Eclipse prefs files
+.prefs
+
+ # Mac files
+.DS_Store
+
+# Emacs backup files
+*.*~
+
+# Android Studio
+.gradle
+local.properties
+*/.idea/workspace.xml
+*/.idea/libraries
+.DS_Store
+*/build
+Mylabs/*/.idea/
